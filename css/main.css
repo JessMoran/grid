@@ -21,7 +21,7 @@ body{
 
 [class*="column-"]{
   float: left;
-  min-height: 7px;
+  min-height: 40px;
   margin: 10px;
 }
 
